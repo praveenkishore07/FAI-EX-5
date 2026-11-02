@@ -1,4 +1,4 @@
-<img width="402" height="512" alt="image" src="https://github.com/user-attachments/assets/e3b1e852-3472-4a06-ab36-f8ebf3751752" /><h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
+<h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name:             </h3>
 <h3>Register Number:             </h3>
 <H3>Aim:</H3>
